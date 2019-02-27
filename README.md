@@ -20,6 +20,7 @@
 - [mockmock.dev #201](https://mockmock.connpass.com/event/117743/) [bouzuya/purescript-react-basic-crud][] v0.1.0 ([2019-01-27][]), v1.0.0 ([2019-02-01][])
 - [mockmock.dev #202](https://mockmock.connpass.com/event/119387/) [bouzuya/purescript-react-basic-calendar-heat-map][] v0.1.0 ([2019-02-03][]), v1.0.0 ([2019-02-08][])
 - [mockmock.dev #203](https://mockmock.connpass.com/event/119488/) [bouzuya/purescript-cat][] v0.1.0 ([2019-02-10][]), v1.0.0 ([2019-02-12][])
+- [mockmock.dev #204](https://mockmock.connpass.com/event/121174/) [bouzuya/purescript-npm-bin-calendar][] v0.1.0 ([2019-02-17][]), v1.0.0 ([2019-02-27][])
 
 [2018-11-25]: https://blog.bouzuya.net/2018/11/25/
 [2018-12-02]: https://blog.bouzuya.net/2018/12/02/
@@ -46,7 +47,10 @@
 [2019-02-08]: https://blog.bouzuya.net/2019/02/08/
 [2019-02-10]: https://blog.bouzuya.net/2019/02/10/
 [2019-02-12]: https://blog.bouzuya.net/2019/02/12/
+[2019-02-17]: https://blog.bouzuya.net/2019/02/17/
+[2019-02-27]: https://blog.bouzuya.net/2019/02/27/
 [bouzuya/purescript-cat]: https://github.com/bouzuya/purescript-cat
+[bouzuya/purescript-npm-bin-calendar]: https://github.com/bouzuya/purescript-npm-bin-calendar
 [bouzuya/purescript-react-basic-bbn-viewer]: https://github.com/bouzuya/purescript-react-basic-bbn-viewer
 [bouzuya/purescript-react-basic-calendar-heat-map]: https://github.com/bouzuya/purescript-react-basic-calendar-heat-map
 [bouzuya/purescript-react-basic-contacts]: https://github.com/bouzuya/purescript-react-basic-contacts
