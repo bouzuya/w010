@@ -102,7 +102,7 @@
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1551596287014500)
   - [bouzuya/purescript-npm-bin-w010-history](https://github.com/bouzuya/purescript-npm-bin-w010-history)
   - v0.1.0 ([2019-03-03](https://blog.bouzuya.net/2019/03/03/))
-  - v1.0.0 ([]())
+  - v1.0.0 ([2019-03-13](https://blog.bouzuya.net/2019/03/13/))
 - [mockmock.dev #207](https://mockmock.connpass.com/event/123774/)
   - 2019-03-10T12:08:03+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1552190430004300)

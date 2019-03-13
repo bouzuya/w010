@@ -145,7 +145,7 @@
   , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1551596287014500"
   , repositoryFullName = "bouzuya/purescript-npm-bin-w010-history"
   , date010 = Some "2019-03-03"
-  , date100 = None Text
+  , date100 = Some "2019-03-13"
   }
 
 , { mockmockDevNo = 207
