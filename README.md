@@ -10,5 +10,11 @@
 
 See: [`history.md`](history.md)
 
+## メモ
+
+```bash
+cat history.dhall | dhall-to-json | npx @bouzuya/w010-history > history.md
+```
+
 [2018-12-03]: https://blog.bouzuya.net/2018/12/03/
 [2018-12-22]: https://blog.bouzuya.net/2018/12/22/
