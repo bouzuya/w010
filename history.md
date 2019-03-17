@@ -109,4 +109,11 @@
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1552197603008000)
   - [bouzuya/create-beater-index](https://github.com/bouzuya/create-beater-index)
   - v0.1.0 ([2019-03-10](https://blog.bouzuya.net/2019/03/10/))
+  - v1.0.0 ([2019-03-14](https://blog.bouzuya.net/2019/03/14/))
+- [mockmock.dev #208](https://mockmock.connpass.com/event/123780/)
+  - 2019-03-17T13:31:36+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1552798072007300)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1552805444019000)
+  - [bouzuya/purescript-npm-bin-google-tasks](https://github.com/bouzuya/purescript-npm-bin-google-tasks)
+  - v0.1.0 ([2019-03-17](https://blog.bouzuya.net/2019/03/17/))
   - v1.0.0 ([]())
