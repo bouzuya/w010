@@ -155,6 +155,16 @@
   , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1552197603008000"
   , repositoryFullName = "bouzuya/create-beater-index"
   , date010 = Some "2019-03-10"
+  , date100 = Some "2019-03-14"
+  }
+
+, { mockmockDevNo = 208
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/123780/"
+  , note = "2019-03-17T13:31:36+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1552798072007300"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1552805444019000"
+  , repositoryFullName = "bouzuya/purescript-npm-bin-google-tasks"
+  , date010 = Some "2019-03-17"
   , date100 = None Text
   }
 ]
