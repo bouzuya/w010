@@ -167,4 +167,14 @@
   , date010 = Some "2019-03-17"
   , date100 = None Text
   }
+
+, { mockmockDevNo = 209
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/124596/"
+  , note = "2019-03-24T10:03:06+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1553400095026700"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1553406980037800"
+  , repositoryFullName = "bouzuya/create-version-module"
+  , date010 = Some "2019-03-24"
+  , date100 = None Text
+  }
 ]
