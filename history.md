@@ -117,3 +117,10 @@
   - [bouzuya/purescript-npm-bin-google-tasks](https://github.com/bouzuya/purescript-npm-bin-google-tasks)
   - v0.1.0 ([2019-03-17](https://blog.bouzuya.net/2019/03/17/))
   - v1.0.0 ([]())
+- [mockmock.dev #209](https://mockmock.connpass.com/event/124596/)
+  - 2019-03-24T10:03:06+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1553400095026700)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1553406980037800)
+  - [bouzuya/create-version-module](https://github.com/bouzuya/create-version-module)
+  - v0.1.0 ([2019-03-24](https://blog.bouzuya.net/2019/03/24/))
+  - v1.0.0 ([]())
