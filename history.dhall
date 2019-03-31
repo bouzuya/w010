@@ -175,6 +175,6 @@
   , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1553406980037800"
   , repositoryFullName = "bouzuya/create-version-module"
   , date010 = Some "2019-03-24"
-  , date100 = None Text
+  , date100 = Some "2019-03-30"
   }
 ]
