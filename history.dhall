@@ -177,4 +177,14 @@
   , date010 = Some "2019-03-24"
   , date100 = Some "2019-03-30"
   }
+
+, { mockmockDevNo = 210
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/125318/",
+  , note = "2019-03-31T13:16:41+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1554006674009800"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1554036150032400"
+  , repositoryFullName = "bouzuya/purescript-npm-bin-time-table"
+  , date010 = Some "2019-03-31"
+  , date100 = None Text
+  }
 ]
