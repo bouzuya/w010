@@ -187,4 +187,14 @@
   , date010 = Some "2019-03-31"
   , date100 = None Text
   }
+
+, { mockmockDevNo = 211
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/126292/",
+  , note = "2019-04-07T13:31:44+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1554612205052400"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1554620502069600"
+  , repositoryFullName = "bouzuya/purescript-npm-bin-base64"
+  , date010 = Some "2019-04-07"
+  , date100 = None Text
+  }
 ]
