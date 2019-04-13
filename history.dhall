@@ -185,7 +185,7 @@
   , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1554036150032400"
   , repositoryFullName = "bouzuya/purescript-npm-bin-time-table"
   , date010 = Some "2019-03-31"
-  , date100 = None Text
+  , date100 = Some "2019-04-05"
   }
 
 , { mockmockDevNo = 211
@@ -195,6 +195,6 @@
   , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1554620502069600"
   , repositoryFullName = "bouzuya/purescript-npm-bin-base64"
   , date010 = Some "2019-04-07"
-  , date100 = None Text
+  , date100 = Some "2019-04-11"
   }
 ]
