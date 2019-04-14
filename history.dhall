@@ -179,7 +179,7 @@
   }
 
 , { mockmockDevNo = 210
-  , mockmockDevUrl = "https://mockmock.connpass.com/event/125318/",
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/125318/"
   , note = "2019-03-31T13:16:41+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1554006674009800"
   , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1554036150032400"
@@ -189,7 +189,7 @@
   }
 
 , { mockmockDevNo = 211
-  , mockmockDevUrl = "https://mockmock.connpass.com/event/126292/",
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/126292/"
   , note = "2019-04-07T13:31:44+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1554612205052400"
   , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1554620502069600"
