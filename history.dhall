@@ -1,4 +1,5 @@
-[ { mockmockDevNo = 192
+[ { yearWeek = "2018-W47"
+  , mockmockDevNo = 192
   , mockmockDevUrl = "https://mockmock.connpass.com/event/110293/"
   , note = "2018-11-25T12:41:40+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1543118456071500"
@@ -8,7 +9,8 @@
   , date100 = Some "2018-12-02"
   }
 
-, { mockmockDevNo = 193
+, { yearWeek = "2018-W48"
+  , mockmockDevNo = 193
   , mockmockDevUrl = "https://mockmock.connpass.com/event/111535/"
   , note = "2018-12-02T11:27:31+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1543723277002500"
@@ -18,7 +20,8 @@
   , date100 = Some "2018-12-04"
   }
 
-, { mockmockDevNo = 194
+, { yearWeek = "2018-W49"
+  , mockmockDevNo = 194
   , mockmockDevUrl = "https://mockmock.connpass.com/event/111823/"
   , note = "2018-12-09T12:45:38+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1544328053018100"
@@ -28,7 +31,8 @@
   , date100 = Some "2018-12-14"
   }
 
-, { mockmockDevNo = 195
+, { yearWeek = "2018-W50"
+  , mockmockDevNo = 195
   , mockmockDevUrl = "https://mockmock.connpass.com/event/112504/"
   , note = "2018-12-16T12:44:33+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1544932901042700"
@@ -38,7 +42,8 @@
   , date100 = Some "2018-12-26"
   }
 
-, { mockmockDevNo = 196
+, { yearWeek = "2018-W51"
+  , mockmockDevNo = 196
   , mockmockDevUrl = "https://mockmock.connpass.com/event/113191/"
   , note = "2018-12-23T12:44:16+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1545537962003900"
@@ -48,7 +53,8 @@
   , date100 = Some "2018-12-27"
   }
 
-, { mockmockDevNo = 197
+, { yearWeek = "2018-W52"
+  , mockmockDevNo = 197
   , mockmockDevUrl = "https://mockmock.connpass.com/event/113906/"
   , note = "2018-12-30T12:52:40+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1546142580021300"
@@ -58,7 +64,8 @@
   , date100 = Some "2019-01-14"
   }
 
-, { mockmockDevNo = 198
+, { yearWeek = "2019-W01"
+  , mockmockDevNo = 198
   , mockmockDevUrl = "https://mockmock.connpass.com/event/114557/"
   , note = "2019-01-06T11:03:00+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1546747636036600"
@@ -68,7 +75,8 @@
   , date100 = Some "2019-01-23"
   }
 
-, { mockmockDevNo = 199
+, { yearWeek = "2019-W02"
+  , mockmockDevNo = 199
   , mockmockDevUrl = "https://mockmock.connpass.com/event/114930/"
   , note = "2019-01-13T12:36:47+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1547352038047500"
@@ -78,7 +86,8 @@
   , date100 = Some "2019-01-29"
   }
 
-, { mockmockDevNo = 200
+, { yearWeek = "2019-W03"
+  , mockmockDevNo = 200
   , mockmockDevUrl = "https://mockmock.connpass.com/event/116250/"
   , note = "2019-01-20T12:48:48+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1547956862066100"
@@ -88,7 +97,8 @@
   , date100 = Some "2019-01-30"
   }
 
-, { mockmockDevNo = 201
+, { yearWeek = "2019-W04"
+  , mockmockDevNo = 201
   , mockmockDevUrl = "https://mockmock.connpass.com/event/117743/"
   , note = "2019-01-27T12:47:50+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1548561639077900"
@@ -98,7 +108,8 @@
   , date100 = Some "2019-02-01"
   }
 
-, { mockmockDevNo = 202
+, { yearWeek = "2019-W05"
+  , mockmockDevNo = 202
   , mockmockDevUrl = "https://mockmock.connpass.com/event/119387/"
   , note = "2019-02-03T10:21:56+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1549166514086700"
@@ -108,7 +119,8 @@
   , date100 = Some "2019-02-08"
   }
 
-, { mockmockDevNo = 203
+, { yearWeek = "2019-W06"
+  , mockmockDevNo = 203
   , mockmockDevUrl = "https://mockmock.connpass.com/event/119488/"
   , note = "2019-02-10T13:01:54+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1549771583107700"
@@ -118,7 +130,8 @@
   , date100 = Some "2019-02-12"
   }
 
-, { mockmockDevNo = 204
+, { yearWeek = "2019-W07"
+  , mockmockDevNo = 204
   , mockmockDevUrl = "https://mockmock.connpass.com/event/121174/"
   , note = "2019-02-17T12:39:45+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1550376196005200"
@@ -128,7 +141,8 @@
   , date100 = Some "2019-02-27"
   }
 
-, { mockmockDevNo = 205
+, { yearWeek = "2019-W08"
+  , mockmockDevNo = 205
   , mockmockDevUrl = "https://mockmock.connpass.com/event/121183/"
   , note = "2019-02-24T12:57:44+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1550981108002200"
@@ -138,7 +152,8 @@
   , date100 = Some "2019-03-12"
   }
 
-, { mockmockDevNo = 206
+, { yearWeek = "2019-W09"
+  , mockmockDevNo = 206
   , mockmockDevUrl = "https://mockmock.connpass.com/event/122025/"
   , note = "2019-03-03T13:28:56+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1551588245006800"
@@ -148,7 +163,8 @@
   , date100 = Some "2019-03-13"
   }
 
-, { mockmockDevNo = 207
+, { yearWeek = "2019-W10"
+  , mockmockDevNo = 207
   , mockmockDevUrl = "https://mockmock.connpass.com/event/123774/"
   , note = "2019-03-10T12:08:03+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1552190430004300"
@@ -158,7 +174,8 @@
   , date100 = Some "2019-03-14"
   }
 
-, { mockmockDevNo = 208
+, { yearWeek = "2019-W11"
+  , mockmockDevNo = 208
   , mockmockDevUrl = "https://mockmock.connpass.com/event/123780/"
   , note = "2019-03-17T13:31:36+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1552798072007300"
@@ -168,7 +185,8 @@
   , date100 = None Text
   }
 
-, { mockmockDevNo = 209
+, { yearWeek = "2019-W12"
+  , mockmockDevNo = 209
   , mockmockDevUrl = "https://mockmock.connpass.com/event/124596/"
   , note = "2019-03-24T10:03:06+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1553400095026700"
@@ -178,7 +196,8 @@
   , date100 = Some "2019-03-30"
   }
 
-, { mockmockDevNo = 210
+, { yearWeek = "2019-W13"
+  , mockmockDevNo = 210
   , mockmockDevUrl = "https://mockmock.connpass.com/event/125318/"
   , note = "2019-03-31T13:16:41+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1554006674009800"
@@ -188,7 +207,8 @@
   , date100 = Some "2019-04-05"
   }
 
-, { mockmockDevNo = 211
+, { yearWeek = "2019-W14"
+  , mockmockDevNo = 211
   , mockmockDevUrl = "https://mockmock.connpass.com/event/126292/"
   , note = "2019-04-07T13:31:44+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1554612205052400"
@@ -198,7 +218,8 @@
   , date100 = Some "2019-04-11"
   }
 
-, { mockmockDevNo = 212
+, { yearWeek = "2019-W15"
+  , mockmockDevNo = 212
   , mockmockDevUrl = "https://mockmock.connpass.com/event/127214/"
   , note = "2019-04-14T12:28:28+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1555214555004800"
@@ -208,7 +229,8 @@
   , date100 = None Text
   }
 
-, { mockmockDevNo = 213
+, { yearWeek = "2019-W16"
+  , mockmockDevNo = 213
   , mockmockDevUrl = "https://mockmock.connpass.com/event/127978/"
   , note = "2019-04-21T13:35:50+09:00"
   , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1555822480033100"
