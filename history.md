@@ -138,3 +138,17 @@
   - [bouzuya/purescript-npm-bin-base64](https://github.com/bouzuya/purescript-npm-bin-base64)
   - v0.1.0 ([2019-04-07](https://blog.bouzuya.net/2019/04/07/))
   - v1.0.0 ([2019-04-11](https://blog.bouzuya.net/2019/04/11/))
+- [mockmock.dev #212](https://mockmock.connpass.com/event/127214/)
+  - 2019-04-14T12:28:28+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1555214555004800)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1555221682009800)
+  - [bouzuya/purescript-npm-bin-repository-list](https://github.com/bouzuya/purescript-npm-bin-repository-list)
+  - v0.1.0 ([2019-04-14](https://blog.bouzuya.net/2019/04/14/))
+  - v1.0.0 ([]())
+- [mockmock.dev #213](https://mockmock.connpass.com/event/127978/)
+  - 2019-04-21T13:35:50+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1555822480033100)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1555830965037900)
+  - [bouzuya/purescript-httpure-users](https://github.com/bouzuya/purescript-httpure-users)
+  - v0.1.0 ([2019-04-21](https://blog.bouzuya.net/2019/04/21/))
+  - v1.0.0 ([]())
