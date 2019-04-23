@@ -1,151 +1,173 @@
-- [mockmock.dev #192](https://mockmock.connpass.com/event/110293/)
+- 2018-W47
+  - [mockmock.dev #192](https://mockmock.connpass.com/event/110293/)
   - 2018-11-25T12:41:40+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1543118456071500)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1543124063076300)
   - [bouzuya/purescript-react-basic-fizzbuzz](https://github.com/bouzuya/purescript-react-basic-fizzbuzz)
   - v0.1.0 ([2018-11-25](https://blog.bouzuya.net/2018/11/25/))
   - v1.0.0 ([2018-12-02](https://blog.bouzuya.net/2018/12/02/))
-- [mockmock.dev #193](https://mockmock.connpass.com/event/111535/)
+- 2018-W48
+  - [mockmock.dev #193](https://mockmock.connpass.com/event/111535/)
   - 2018-12-02T11:27:31+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1543723277002500)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1543730518007400)
   - [bouzuya/purescript-react-basic-contacts](https://github.com/bouzuya/purescript-react-basic-contacts)
   - v0.1.0 ([2018-12-02](https://blog.bouzuya.net/2018/12/02/))
   - v1.0.0 ([2018-12-04](https://blog.bouzuya.net/2018/12/04/))
-- [mockmock.dev #194](https://mockmock.connpass.com/event/111823/)
+- 2018-W49
+  - [mockmock.dev #194](https://mockmock.connpass.com/event/111823/)
   - 2018-12-09T12:45:38+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1544328053018100)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1544335210029900)
   - [bouzuya/purescript-react-basic-bbn-viewer](https://github.com/bouzuya/purescript-react-basic-bbn-viewer)
   - v0.1.0 ([2018-12-09](https://blog.bouzuya.net/2018/12/09/))
   - v1.0.0 ([2018-12-14](https://blog.bouzuya.net/2018/12/14/))
-- [mockmock.dev #195](https://mockmock.connpass.com/event/112504/)
+- 2018-W50
+  - [mockmock.dev #195](https://mockmock.connpass.com/event/112504/)
   - 2018-12-16T12:44:33+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1544932901042700)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1544943650054300)
   - [bouzuya/purescript-react-basic-set-position](https://github.com/bouzuya/purescript-react-basic-set-position)
   - v0.1.0 ([2018-12-16](https://blog.bouzuya.net/2018/12/16/))
   - v1.0.0 ([2018-12-26](https://blog.bouzuya.net/2018/12/26/))
-- [mockmock.dev #196](https://mockmock.connpass.com/event/113191/)
+- 2018-W51
+  - [mockmock.dev #196](https://mockmock.connpass.com/event/113191/)
   - 2018-12-23T12:44:16+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1545537962003900)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1545544860012500)
   - [bouzuya/purescript-react-basic-select-builder](https://github.com/bouzuya/purescript-react-basic-select-builder)
   - v0.1.0 ([2018-12-23](https://blog.bouzuya.net/2018/12/23/))
   - v1.0.0 ([2018-12-27](https://blog.bouzuya.net/2018/12/27/))
-- [mockmock.dev #197](https://mockmock.connpass.com/event/113906/)
+- 2018-W52
+  - [mockmock.dev #197](https://mockmock.connpass.com/event/113906/)
   - 2018-12-30T12:52:40+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1546142580021300)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1546150002030300)
   - [bouzuya/purescript-react-basic-leaflet-geojson](https://github.com/bouzuya/purescript-react-basic-leaflet-geojson)
   - v0.1.0 ([2018-12-30](https://blog.bouzuya.net/2018/12/30/))
   - v1.0.0 ([2019-01-14](https://blog.bouzuya.net/2019/01/14/))
-- [mockmock.dev #198](https://mockmock.connpass.com/event/114557/)
+- 2019-W01
+  - [mockmock.dev #198](https://mockmock.connpass.com/event/114557/)
   - 2019-01-06T11:03:00+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1546747636036600)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1546754135040400)
   - [bouzuya/purescript-react-basic-password-generator](https://github.com/bouzuya/purescript-react-basic-password-generator)
   - v0.1.0 ([2019-01-06](https://blog.bouzuya.net/2019/01/06/))
   - v1.0.0 ([2019-01-23](https://blog.bouzuya.net/2019/01/23/))
-- [mockmock.dev #199](https://mockmock.connpass.com/event/114930/)
+- 2019-W02
+  - [mockmock.dev #199](https://mockmock.connpass.com/event/114930/)
   - 2019-01-13T12:36:47+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1547352038047500)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1547359113055700)
   - [bouzuya/purescript-react-basic-repository-list](https://github.com/bouzuya/purescript-react-basic-repository-list)
   - v0.1.0 ([2019-01-13](https://blog.bouzuya.net/2019/01/13/))
   - v1.0.0 ([2019-01-29](https://blog.bouzuya.net/2019/01/29/))
-- [mockmock.dev #200](https://mockmock.connpass.com/event/116250/)
+- 2019-W03
+  - [mockmock.dev #200](https://mockmock.connpass.com/event/116250/)
   - 2019-01-20T12:48:48+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1547956862066100)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1547963585070200)
   - [bouzuya/purescript-react-basic-timer](https://github.com/bouzuya/purescript-react-basic-timer)
   - v0.1.0 ([2019-01-20](https://blog.bouzuya.net/2019/01/20/))
   - v1.0.0 ([2019-01-30](https://blog.bouzuya.net/2019/01/30/))
-- [mockmock.dev #201](https://mockmock.connpass.com/event/117743/)
+- 2019-W04
+  - [mockmock.dev #201](https://mockmock.connpass.com/event/117743/)
   - 2019-01-27T12:47:50+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1548561639077900)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1548567456082700)
   - [bouzuya/purescript-react-basic-crud](https://github.com/bouzuya/purescript-react-basic-crud)
   - v0.1.0 ([2019-01-27](https://blog.bouzuya.net/2019/01/27/))
   - v1.0.0 ([2019-02-01](https://blog.bouzuya.net/2019/02/01/))
-- [mockmock.dev #202](https://mockmock.connpass.com/event/119387/)
+- 2019-W05
+  - [mockmock.dev #202](https://mockmock.connpass.com/event/119387/)
   - 2019-02-03T10:21:56+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1549166514086700)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1549173634100300)
   - [bouzuya/purescript-react-basic-calendar-heat-map](https://github.com/bouzuya/purescript-react-basic-calendar-heat-map)
   - v0.1.0 ([2019-02-03](https://blog.bouzuya.net/2019/02/03/))
   - v1.0.0 ([2019-02-08](https://blog.bouzuya.net/2019/02/08/))
-- [mockmock.dev #203](https://mockmock.connpass.com/event/119488/)
+- 2019-W06
+  - [mockmock.dev #203](https://mockmock.connpass.com/event/119488/)
   - 2019-02-10T13:01:54+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1549771583107700)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1549778155110500)
   - [bouzuya/purescript-cat](https://github.com/bouzuya/purescript-cat)
   - v0.1.0 ([2019-02-10](https://blog.bouzuya.net/2019/02/10/))
   - v1.0.0 ([2019-02-12](https://blog.bouzuya.net/2019/02/12/))
-- [mockmock.dev #204](https://mockmock.connpass.com/event/121174/)
+- 2019-W07
+  - [mockmock.dev #204](https://mockmock.connpass.com/event/121174/)
   - 2019-02-17T12:39:45+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1550376196005200)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1549778155110500)
   - [bouzuya/purescript-npm-bin-calendar](https://github.com/bouzuya/purescript-npm-bin-calendar)
   - v0.1.0 ([2019-02-17](https://blog.bouzuya.net/2019/02/17/))
   - v1.0.0 ([2019-02-27](https://blog.bouzuya.net/2019/02/27/))
-- [mockmock.dev #205](https://mockmock.connpass.com/event/121183/)
+- 2019-W08
+  - [mockmock.dev #205](https://mockmock.connpass.com/event/121183/)
   - 2019-02-24T12:57:44+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1550981108002200)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1550988031028100)
   - [bouzuya/purescript-npm-bin-google-calendar-events](https://github.com/bouzuya/purescript-npm-bin-google-calendar-events)
   - v0.1.0 ([2019-02-24](https://blog.bouzuya.net/2019/02/24/))
   - v1.0.0 ([2019-03-12](https://blog.bouzuya.net/2019/03/12/))
-- [mockmock.dev #206](https://mockmock.connpass.com/event/122025/)
+- 2019-W09
+  - [mockmock.dev #206](https://mockmock.connpass.com/event/122025/)
   - 2019-03-03T13:28:56+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1551588245006800)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1551596287014500)
   - [bouzuya/purescript-npm-bin-w010-history](https://github.com/bouzuya/purescript-npm-bin-w010-history)
   - v0.1.0 ([2019-03-03](https://blog.bouzuya.net/2019/03/03/))
   - v1.0.0 ([2019-03-13](https://blog.bouzuya.net/2019/03/13/))
-- [mockmock.dev #207](https://mockmock.connpass.com/event/123774/)
+- 2019-W10
+  - [mockmock.dev #207](https://mockmock.connpass.com/event/123774/)
   - 2019-03-10T12:08:03+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1552190430004300)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1552197603008000)
   - [bouzuya/create-beater-index](https://github.com/bouzuya/create-beater-index)
   - v0.1.0 ([2019-03-10](https://blog.bouzuya.net/2019/03/10/))
   - v1.0.0 ([2019-03-14](https://blog.bouzuya.net/2019/03/14/))
-- [mockmock.dev #208](https://mockmock.connpass.com/event/123780/)
+- 2019-W11
+  - [mockmock.dev #208](https://mockmock.connpass.com/event/123780/)
   - 2019-03-17T13:31:36+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1552798072007300)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1552805444019000)
   - [bouzuya/purescript-npm-bin-google-tasks](https://github.com/bouzuya/purescript-npm-bin-google-tasks)
   - v0.1.0 ([2019-03-17](https://blog.bouzuya.net/2019/03/17/))
   - v1.0.0 ([]())
-- [mockmock.dev #209](https://mockmock.connpass.com/event/124596/)
+- 2019-W12
+  - [mockmock.dev #209](https://mockmock.connpass.com/event/124596/)
   - 2019-03-24T10:03:06+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1553400095026700)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1553406980037800)
   - [bouzuya/create-version-module](https://github.com/bouzuya/create-version-module)
   - v0.1.0 ([2019-03-24](https://blog.bouzuya.net/2019/03/24/))
   - v1.0.0 ([2019-03-30](https://blog.bouzuya.net/2019/03/30/))
-- [mockmock.dev #210](https://mockmock.connpass.com/event/125318/)
+- 2019-W13
+  - [mockmock.dev #210](https://mockmock.connpass.com/event/125318/)
   - 2019-03-31T13:16:41+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1554006674009800)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1554036150032400)
   - [bouzuya/purescript-npm-bin-time-table](https://github.com/bouzuya/purescript-npm-bin-time-table)
   - v0.1.0 ([2019-03-31](https://blog.bouzuya.net/2019/03/31/))
   - v1.0.0 ([2019-04-05](https://blog.bouzuya.net/2019/04/05/))
-- [mockmock.dev #211](https://mockmock.connpass.com/event/126292/)
+- 2019-W14
+  - [mockmock.dev #211](https://mockmock.connpass.com/event/126292/)
   - 2019-04-07T13:31:44+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1554612205052400)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1554620502069600)
   - [bouzuya/purescript-npm-bin-base64](https://github.com/bouzuya/purescript-npm-bin-base64)
   - v0.1.0 ([2019-04-07](https://blog.bouzuya.net/2019/04/07/))
   - v1.0.0 ([2019-04-11](https://blog.bouzuya.net/2019/04/11/))
-- [mockmock.dev #212](https://mockmock.connpass.com/event/127214/)
+- 2019-W15
+  - [mockmock.dev #212](https://mockmock.connpass.com/event/127214/)
   - 2019-04-14T12:28:28+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1555214555004800)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1555221682009800)
   - [bouzuya/purescript-npm-bin-repository-list](https://github.com/bouzuya/purescript-npm-bin-repository-list)
   - v0.1.0 ([2019-04-14](https://blog.bouzuya.net/2019/04/14/))
   - v1.0.0 ([]())
-- [mockmock.dev #213](https://mockmock.connpass.com/event/127978/)
+- 2019-W16
+  - [mockmock.dev #213](https://mockmock.connpass.com/event/127978/)
   - 2019-04-21T13:35:50+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1555822480033100)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1555830965037900)
