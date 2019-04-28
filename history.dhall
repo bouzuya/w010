@@ -239,4 +239,15 @@
   , date010 = Some "2019-04-21"
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W17"
+  , mockmockDevNo = 214
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/128840/"
+  , note = "2019-04-28T13:33:25+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1556427003003900"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1556443020014000"
+  , repositoryFullName = "bouzuya/purescript-httpure-bookmarks"
+  , date010 = Some "2019-04-28"
+  , date100 = None Text
+  }
 ]
