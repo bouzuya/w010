@@ -174,3 +174,11 @@
   - [bouzuya/purescript-httpure-users](https://github.com/bouzuya/purescript-httpure-users)
   - v0.1.0 ([2019-04-21](https://blog.bouzuya.net/2019/04/21/))
   - v1.0.0 ([]())
+- 2019-W17
+  - [mockmock.dev #214](https://mockmock.connpass.com/event/128840/)
+  - 2019-04-28T13:33:25+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1556427003003900)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1556443020014000)
+  - [bouzuya/purescript-httpure-bookmarks](https://github.com/bouzuya/purescript-httpure-bookmarks)
+  - v0.1.0 ([2019-04-28](https://blog.bouzuya.net/2019/04/28/))
+  - v1.0.0 ([]())
