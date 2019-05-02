@@ -226,7 +226,7 @@
   , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1555221682009800"
   , repositoryFullName = "bouzuya/purescript-npm-bin-repository-list"
   , date010 = Some "2019-04-14"
-  , date100 = None Text
+  , date100 = Some "2019-05-01"
   }
 
 , { yearWeek = "2019-W16"
@@ -237,7 +237,7 @@
   , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1555830965037900"
   , repositoryFullName = "bouzuya/purescript-httpure-users"
   , date010 = Some "2019-04-21"
-  , date100 = None Text
+  , date100 = Some "2019-05-02"
   }
 
 , { yearWeek = "2019-W17"
