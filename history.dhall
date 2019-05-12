@@ -261,4 +261,15 @@
   , date010 = Some "2019-05-05"
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W19"
+  , mockmockDevNo = 216
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/130572/"
+  , note = "2019-05-12T12:53:20+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1557633659061200"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1557640479066500"
+  , repositoryFullName = "bouzuya/purescript-httpure-slackapp"
+  , date010 = Some "2019-05-12"
+  , date100 = None Text
+  }
 ]
