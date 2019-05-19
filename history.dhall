@@ -272,4 +272,15 @@
   , date010 = Some "2019-05-12"
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W20"
+  , mockmockDevNo = 217
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/132000/"
+  , note = "2019-05-19T13:18:27+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1558239920010500"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1558248562014300"
+  , repositoryFullName = "bouzuya/purescript-httpure-slack-dice"
+  , date010 = Some "2019-05-19"
+  , date100 = None Text
+  }
 ]
