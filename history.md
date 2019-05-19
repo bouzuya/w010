@@ -190,3 +190,19 @@
   - [bouzuya/purescript-httpure-messages](https://github.com/bouzuya/purescript-httpure-messages)
   - v0.1.0 ([2019-05-05](https://blog.bouzuya.net/2019/05/05/))
   - v1.0.0 ([]())
+- 2019-W19
+  - [mockmock.dev #216](https://mockmock.connpass.com/event/130572/)
+  - 2019-05-12T12:53:20+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1557633659061200)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1557640479066500)
+  - [bouzuya/purescript-httpure-slackapp](https://github.com/bouzuya/purescript-httpure-slackapp)
+  - v0.1.0 ([2019-05-12](https://blog.bouzuya.net/2019/05/12/))
+  - v1.0.0 ([]())
+- 2019-W20
+  - [mockmock.dev #217](https://mockmock.connpass.com/event/132000/)
+  - 2019-05-19T13:18:27+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1558239920010500)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1558248562014300)
+  - [bouzuya/purescript-httpure-slack-dice](https://github.com/bouzuya/purescript-httpure-slack-dice)
+  - v0.1.0 ([2019-05-19](https://blog.bouzuya.net/2019/05/19/))
+  - v1.0.0 ([]())
