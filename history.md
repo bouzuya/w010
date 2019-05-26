@@ -206,3 +206,11 @@
   - [bouzuya/purescript-httpure-slack-dice](https://github.com/bouzuya/purescript-httpure-slack-dice)
   - v0.1.0 ([2019-05-19](https://blog.bouzuya.net/2019/05/19/))
   - v1.0.0 ([]())
+- 2019-W21
+  - [mockmock.dev #218](https://mockmock.connpass.com/event/132419/)
+  - 2019-05-26T13:02:14+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1558844671001700)
+  - [やったこと成果発表]()
+  - [bouzuya/purescript-httpure-slack-ghpr](https://github.com/bouzuya/purescript-httpure-slack-ghpr)
+  - v0.1.0 ([]())
+  - v1.0.0 ([]())
