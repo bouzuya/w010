@@ -283,4 +283,15 @@
   , date010 = Some "2019-05-19"
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W21"
+  , mockmockDevNo = 218
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/132419/"
+  , note = "2019-05-26T13:02:14+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1558844671001700"
+  , endThreadUrl = ""
+  , repositoryFullName = "bouzuya/purescript-httpure-slack-ghpr"
+  , date010 = None Text
+  , date100 = None Text
+  }
 ]
