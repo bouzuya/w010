@@ -181,7 +181,7 @@
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1556443020014000)
   - [bouzuya/purescript-httpure-bookmarks](https://github.com/bouzuya/purescript-httpure-bookmarks)
   - v0.1.0 ([2019-04-28](https://blog.bouzuya.net/2019/04/28/))
-  - v1.0.0 ([]())
+  - v1.0.0 ([2019-06-01](https://blog.bouzuya.net/2019/06/01/))
 - 2019-W18
   - [mockmock.dev #215](https://mockmock.connpass.com/event/129781/)
   - 2019-05-05T12:15:20+09:00
@@ -210,7 +210,15 @@
   - [mockmock.dev #218](https://mockmock.connpass.com/event/132419/)
   - 2019-05-26T13:02:14+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1558844671001700)
-  - [やったこと成果発表]()
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1558852562007000)
   - [bouzuya/purescript-httpure-slack-ghpr](https://github.com/bouzuya/purescript-httpure-slack-ghpr)
-  - v0.1.0 ([]())
+  - v0.1.0 ([2019-05-26](https://blog.bouzuya.net/2019/05/26/))
+  - v1.0.0 ([]())
+- 2019-W22
+  - [mockmock.dev #219](https://mockmock.connpass.com/event/133224/)
+  - 2019-06-02T13:13:23+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1559449892021400)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1559455284027900)
+  - [bouzuya/purescript-http-server-ip](https://github.com/bouzuya/purescript-http-server-ip)
+  - v0.1.0 ([2019-06-02](https://blog.bouzuya.net/2019/06/02/))
   - v1.0.0 ([]())
