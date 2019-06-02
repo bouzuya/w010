@@ -248,7 +248,7 @@
   , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1556443020014000"
   , repositoryFullName = "bouzuya/purescript-httpure-bookmarks"
   , date010 = Some "2019-04-28"
-  , date100 = None Text
+  , date100 = Some "2019-06-01"
   }
 
 , { yearWeek = "2019-W18"
