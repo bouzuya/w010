@@ -305,4 +305,15 @@
   , date010 = Some "2019-06-02"
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W23"
+  , mockmockDevNo = 220
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/133963/"
+  , note = "2019-06-09T13:07:58+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1560054208009100"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1560060549024700"
+  , repositoryFullName = "bouzuya/purescript-http-server-contacts"
+  , date010 = Some "2019-06-09"
+  , date100 = None Text
+  }
 ]
