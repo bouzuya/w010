@@ -259,7 +259,7 @@
   , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1557036176040900"
   , repositoryFullName = "bouzuya/purescript-httpure-messages"
   , date010 = Some "2019-05-05"
-  , date100 = None Text
+  , date100 = Some "2019-06-08"
   }
 
 , { yearWeek = "2019-W19"
