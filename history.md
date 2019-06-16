@@ -230,3 +230,11 @@
   - [bouzuya/purescript-http-server-contacts](https://github.com/bouzuya/purescript-http-server-contacts)
   - v0.1.0 ([2019-06-09](https://blog.bouzuya.net/2019/06/09/))
   - v1.0.0 ([]())
+- 2019-W24
+  - [mockmock.dev #221](https://mockmock.connpass.com/event/134893/)
+  - 2019-06-16T13:56:13+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1560662234049000)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1560667658058800)
+  - [bouzuya/purescript-http-server-bbs](https://github.com/bouzuya/purescript-http-server-bbs)
+  - v0.1.0 ([2019-06-16](https://blog.bouzuya.net/2019/06/16/))
+  - v1.0.0 ([]())
