@@ -221,7 +221,7 @@
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1559455284027900)
   - [bouzuya/purescript-http-server-ip](https://github.com/bouzuya/purescript-http-server-ip)
   - v0.1.0 ([2019-06-02](https://blog.bouzuya.net/2019/06/02/))
-  - v1.0.0 ([]())
+  - v1.0.0 ([2019-06-23](https://blog.bouzuya.net/2019/06/23/))
 - 2019-W23
   - [mockmock.dev #220](https://mockmock.connpass.com/event/133963/)
   - 2019-06-09T13:07:58+09:00
