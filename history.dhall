@@ -303,7 +303,7 @@
   , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1559455284027900"
   , repositoryFullName = "bouzuya/purescript-http-server-ip"
   , date010 = Some "2019-06-02"
-  , date100 = None Text
+  , date100 = Some "2019-06-23"
   }
 
 , { yearWeek = "2019-W23"
