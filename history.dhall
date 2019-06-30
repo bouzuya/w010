@@ -327,4 +327,15 @@
   , date010 = Some "2019-06-16"
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W26"
+  , mockmockDevNo = 223
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/137484/"
+  , note = "2019-06-30T14:20:54+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1561872721101400"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1561879848117000"
+  , repositoryFullName = "bouzuya/purescript-http-server-timer"
+  , date010 = Some "2019-06-30"
+  , date100 = None Text
+  }
 ]
