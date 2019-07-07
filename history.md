@@ -243,6 +243,14 @@
   - 2019-06-30T14:20:54+09:00
   - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1561872721101400)
   - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1561879848117000)
-  - [bouzuya/purescript-http-server-timer](https://github.com/bouzuya/purescript-http-server-timer)
+  - [bouzuya/purescript-http-server-stopwatch](https://github.com/bouzuya/purescript-http-server-stopwatch)
   - v0.1.0 ([2019-06-30](https://blog.bouzuya.net/2019/06/30/))
+  - v1.0.0 ([]())
+- 2019-W27
+  - [mockmock.dev #224](https://mockmock.connpass.com/event/137632/)
+  - 2019-07-07T14:20:43+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1562477982127000)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1562481451133900)
+  - [bouzuya/purescript-http-server-counter](https://github.com/bouzuya/purescript-http-server-counter)
+  - v0.1.0 ([2019-07-07](https://blog.bouzuya.net/2019/07/07/))
   - v1.0.0 ([]())
