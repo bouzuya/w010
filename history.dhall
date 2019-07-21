@@ -349,4 +349,15 @@
   , date010 = Some "2019-07-07"
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W28"
+  , mockmockDevNo = 225
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/138603/"
+  , note = "2019-07-14T13:17:04+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1563078152141600"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1563084115148800"
+  , repositoryFullName = "bouzuya/httpure-users-android"
+  , date010 = None Text
+  , date100 = None Text
+  }
 ]
