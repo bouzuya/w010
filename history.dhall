@@ -360,4 +360,15 @@
   , date010 = None Text
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W29"
+  , mockmockDevNo = 226
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/139541/"
+  , note = "2019-07-21T13:38:26+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1563684169006700"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1563689594013000"
+  , repositoryFullName = "bouzuya/android-number-pickers"
+  , date010 = Some "2019-07-21"
+  , date100 = None Text
+  }
 ]
