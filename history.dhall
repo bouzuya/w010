@@ -371,4 +371,15 @@
   , date010 = Some "2019-07-21"
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W30"
+  , mockmockDevNo = 227
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/140255/"
+  , note = "2019-07-28T13:01:41+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1564286728021600"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1564293770024900"
+  , repositoryFullName = "bouzuya/android-checkip"
+  , date010 = Some "2019-07-28"
+  , date100 = None Text
+  }
 ]
