@@ -254,3 +254,27 @@
   - [bouzuya/purescript-http-server-counter](https://github.com/bouzuya/purescript-http-server-counter)
   - v0.1.0 ([2019-07-07](https://blog.bouzuya.net/2019/07/07/))
   - v1.0.0 ([]())
+- 2019-W28
+  - [mockmock.dev #225](https://mockmock.connpass.com/event/138603/)
+  - 2019-07-14T13:17:04+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1563078152141600)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1563084115148800)
+  - [bouzuya/httpure-users-android](https://github.com/bouzuya/httpure-users-android)
+  - v0.1.0 ([]())
+  - v1.0.0 ([]())
+- 2019-W29
+  - [mockmock.dev #226](https://mockmock.connpass.com/event/139541/)
+  - 2019-07-21T13:38:26+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1563684169006700)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1563689594013000)
+  - [bouzuya/android-number-pickers](https://github.com/bouzuya/android-number-pickers)
+  - v0.1.0 ([2019-07-21](https://blog.bouzuya.net/2019/07/21/))
+  - v1.0.0 ([]())
+- 2019-W30
+  - [mockmock.dev #227](https://mockmock.connpass.com/event/140255/)
+  - 2019-07-28T13:01:41+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1564286728021600)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1564293770024900)
+  - [bouzuya/android-checkip](https://github.com/bouzuya/android-checkip)
+  - v0.1.0 ([2019-07-28](https://blog.bouzuya.net/2019/07/28/))
+  - v1.0.0 ([]())
