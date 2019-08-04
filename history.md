@@ -278,3 +278,11 @@
   - [bouzuya/android-checkip](https://github.com/bouzuya/android-checkip)
   - v0.1.0 ([2019-07-28](https://blog.bouzuya.net/2019/07/28/))
   - v1.0.0 ([]())
+- 2019-W31
+  - [mockmock.dev #228](https://mockmock.connpass.com/event/141300/)
+  - 2019-08-04T13:17:27+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1564893889042800)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1564900437052800)
+  - [bouzuya/android-bbn-entry](https://github.com/bouzuya/android-bbn-entry)
+  - v0.1.0 ([2019-08-04](https://blog.bouzuya.net/2019/08/04/))
+  - v1.0.0 ([]())
