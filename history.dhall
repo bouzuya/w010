@@ -382,4 +382,15 @@
   , date010 = Some "2019-07-28"
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W31"
+  , mockmockDevNo = 228
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/141300/"
+  , note = "2019-08-04T13:17:27+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1564893889042800"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1564900437052800"
+  , repositoryFullName = "bouzuya/android-bbn-entry"
+  , date010 = Some "2019-08-04"
+  , date100 = None Text
+  }
 ]
