@@ -286,3 +286,11 @@
   - [bouzuya/android-bbn-entry](https://github.com/bouzuya/android-bbn-entry)
   - v0.1.0 ([2019-08-04](https://blog.bouzuya.net/2019/08/04/))
   - v1.0.0 ([]())
+- 2019-W33
+  - [mockmock.dev #230](https://mockmock.connpass.com/event/143720/)
+  - 2019-08-18T13:59:24+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1566104567080700)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1566112480082500)
+  - [bouzuya/android-sample1](https://github.com/bouzuya/android-sample1)
+  - v0.1.0 ([2019-08-18](https://blog.bouzuya.net/2019/08/18/))
+  - v1.0.0 ([]())
