@@ -415,4 +415,26 @@
   , date010 = Some "2019-08-25"
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W35"
+  , mockmockDevNo = 232
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/145669/"
+  , note = "2019-09-01T16:36:26+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1567304619000300"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1567304619000300"
+  , repositoryFullName = "bouzuya/android-sample3"
+  , date010 = Some "2019-09-01"
+  , date100 = None Text
+  }
+
+, { yearWeek = "2019-W37"
+  , mockmockDevNo = 234
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/146726/"
+  , note = "2019-09-15T13:31:22+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1568522412002700"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1568529879007600"
+  , repositoryFullName = "bouzuya/android-sample4"
+  , date010 = Some "2019-09-15"
+  , date100 = None Text
+  }
 ]
