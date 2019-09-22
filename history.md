@@ -318,3 +318,11 @@
   - [bouzuya/android-sample4](https://github.com/bouzuya/android-sample4)
   - v0.1.0 ([2019-09-15](https://blog.bouzuya.net/2019/09/15/))
   - v1.0.0 ([]())
+- 2019-W38
+  - [mockmock.dev #235](https://mockmock.connpass.com/event/147564/)
+  - 2019-09-22T13:39:24+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1569127825026900)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1569139383035800)
+  - [bouzuya/android-sample5](https://github.com/bouzuya/android-sample5)
+  - v0.1.0 ([2019-09-22](https://blog.bouzuya.net/2019/09/22/))
+  - v1.0.0 ([]())
