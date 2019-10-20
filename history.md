@@ -342,3 +342,11 @@
   - [bouzuya/android-sample5](https://github.com/bouzuya/android-sample5)
   - v0.1.0 ([2019-09-22](https://blog.bouzuya.net/2019/09/22/))
   - v1.0.0 ([]())
+- 2019-W42
+  - [mockmock.dev #239](https://mockmock.connpass.com/event/151339/)
+  - 2019-10-20T14:21:21+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1571549679032700)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1571557225034800)
+  - [bouzuya/shiori-android](https://github.com/bouzuya/shiori-android)
+  - v0.1.0 ([2019-09-22](https://blog.bouzuya.net/2019/09/22/))
+  - v1.0.0 ([]())
