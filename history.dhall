@@ -481,4 +481,15 @@
   , date010 = Some "2019-09-22"
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W43"
+  , mockmockDevNo = 240
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/152261/"
+  , note = "2019-10-27T14:20:17+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1572153813050900"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1572161498059700"
+  , repositoryFullName = "bouzuya/shiori-android"
+  , date010 = Some "2019-09-22"
+  , date100 = None Text
+  }
 ]

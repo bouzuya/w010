@@ -350,3 +350,11 @@
   - [bouzuya/shiori-android](https://github.com/bouzuya/shiori-android)
   - v0.1.0 ([2019-09-22](https://blog.bouzuya.net/2019/09/22/))
   - v1.0.0 ([]())
+- 2019-W43
+  - [mockmock.dev #240](https://mockmock.connpass.com/event/152261/)
+  - 2019-10-27T14:20:17+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1572153813050900)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1572161498059700)
+  - [bouzuya/shiori-android](https://github.com/bouzuya/shiori-android)
+  - v0.1.0 ([2019-09-22](https://blog.bouzuya.net/2019/09/22/))
+  - v1.0.0 ([]())
