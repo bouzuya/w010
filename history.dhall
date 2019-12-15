@@ -558,4 +558,15 @@
   , date010 = Some "2019-11-17"
   , date100 = None Text
   }
+
+, { yearWeek = "2019-W50"
+  , mockmockDevNo = 247
+  , mockmockDevUrl = "https://mockmock.connpass.com/event/158898/"
+  , note = "2019-12-15T13:04:30+09:00"
+  , beginThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1576382930008700"
+  , endThreadUrl = "https://mockmock.slack.com/archives/C043UEYGJ/p1576390105022200"
+  , repositoryFullName = "bouzuya/nekurabe-android"
+  , date010 = Some "2019-11-17"
+  , date100 = None Text
+  }
 ]
