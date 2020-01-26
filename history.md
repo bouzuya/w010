@@ -446,3 +446,11 @@
   - [bouzuya/nekurabe-android](https://github.com/bouzuya/nekurabe-android)
   - v0.1.0 ([2019-11-17](https://blog.bouzuya.net/2019/11/17/))
   - v1.0.0 ([]())
+- 2020-W04
+  - [mockmock.dev #253](https://mockmock.connpass.com/event/164602/)
+  - 2020-01-26T14:16:54+09:00
+  - [やること宣言](https://mockmock.slack.com/archives/C043UEYGJ/p1580016309004100)
+  - [やったこと成果発表](https://mockmock.slack.com/archives/C043UEYGJ/p1580023057005300)
+  - [bouzuya/nekurabe-android](https://github.com/bouzuya/nekurabe-android)
+  - v0.1.0 ([2019-11-17](https://blog.bouzuya.net/2019/11/17/))
+  - v1.0.0 ([]())
